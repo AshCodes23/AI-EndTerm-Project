@@ -147,13 +147,6 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- LICENSE -->
-
-## License
-
-Distributed under the MIT License.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 
@@ -161,6 +154,6 @@ Distributed under the MIT License.
 
 -   Here are some other projects which I get inspired from: [Pose Trainer](https://github.com/stevenzchen/pose-trainer), [Deep Learning Fitness Exercise Correction Keras](https://github.com/Vollkorn01/Deep-Learning-Fitness-Exercise-Correction-Keras) and [Posture](https://github.com/twixupmysleeve/Posture).
 -   [Logo marker](https://www4.flamingtext.com/) for this project.
--   This awesome README template is from [Best README Template](https://github.com/othneildrew/Best-README-Template). ♥
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
