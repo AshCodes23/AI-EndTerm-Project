@@ -3,9 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <a href="https://github.com/NgoQuocBao1010/Exercise-Correction">
-        <img src="./images/logo.png" alt="Logo" width="60%">
-    </a>
+   
 
   <h2 align="center">Exercise Pose Correction</h2>
 
